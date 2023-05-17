@@ -123,7 +123,7 @@ y_test=list(y_test)
 # plt.legend()
 # plt.show()
 
-forecast_range = pd.read_csv("2023-ocak-mart.csv")
+forecast_range = pd.read_csv("2023-january-march.csv")
 forecast_range = forecast_range.drop( ['Temperature (°C)','Date','Precipitation (mm)'], axis=1)
 
 forecasts = []
