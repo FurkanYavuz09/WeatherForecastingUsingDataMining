@@ -17,7 +17,6 @@ In this project a backend application, and ML models will be developed for the p
 weather. All packages hosted on https://pypi.org/ can be used to develop the software project.
 
 Objectives:
-Your team is tasked with;
 
 - Deciding on a data source (such as ECMWF, wunderground etc.)
 - Deciding on historical data start date (up to 5 years)
@@ -29,7 +28,6 @@ Your team is tasked with;
     o Will ask for forecast start date
     o Will list available foracast ranges (3 Days, 7 Days, 14 Days) and allow selection of one.
     o Will show forecasts 1 day per line.
-- Present your solution and reasoning behind your implemented ML model configurations
 
 References:
 1. https://en.wikipedia.org/wiki/Weather_forecasting
